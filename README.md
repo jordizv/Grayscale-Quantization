@@ -47,6 +47,9 @@ In this case, will be with M = 4 and type = 1.
 
 
 ## Example 
+- Tested with
+	- CPU: AMD Ryzen 7 6800HS 
+	- GPU: GeForce RTX 3050 Laptop GPU
 
 - Video Input Sample:
 
