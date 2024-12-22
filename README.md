@@ -48,11 +48,19 @@ In this case, will be with M = 4 and type = 1.
 
 ## Example 
 
-Video sample:
+- Video Input Sample:
 
-![Video](videos\sample.mp4)
+https://github.com/user-attachments/assets/e8dc9129-20ab-40f2-83ce-8351a8f09118
 
-Sample with M=2 and Type=1:
+**Samples are recorded in real-time with OBS Studio (overload)**
+
+- Sample with M=2 and Type=1:
+
+https://github.com/user-attachments/assets/8ff5109b-3f17-429f-b19f-2fa3b25f8d4f
+
+- Sample with M=8 and Type=2:
+
+https://github.com/user-attachments/assets/01c1e699-0ed3-48e5-8eb1-7873f3da1118
 
 
-Sample with M=8 and Type=2:
+
